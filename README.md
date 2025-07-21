@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lami47
-- 👀 I’m interested in js, python, java and typescript
+- 👀 I’m interested in js, python, java and css
 - 🌱 I’m currently learning Software development 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me via email at lamirosey@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Rats can't sneeze
